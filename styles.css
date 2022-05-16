@@ -1,0 +1,19 @@
+.odd-paragraph {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+.odd-size {
+    font-size: 24px;
+}
+
+#eye-dee {
+    color: blue;
+    font-size: 36px;
+}
+
+#eye-two {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
